@@ -1,7 +1,7 @@
 
 # Hello! I'm Patrick 👋
 
-I am a developer with experience in web development and data science. Passionate about learning new technologies and solving real-world problems with code.
+I am a developer with experience in web development, back-end development and databases. Personal passion for economics, sports and books.
 
 ---
 
@@ -24,6 +24,6 @@ I am a developer with experience in web development and data science. Passionate
 ---
 
 ### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmelo22)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pmelo22)
 ![Profile views](https://komarev.com/ghpvc/?username=Pmelo22&style=flat-square&color=blue)
