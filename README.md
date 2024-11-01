@@ -19,7 +19,7 @@ I am a developer with experience in web development and data science. Passionate
 ---
 
 ### Featured Projects
-[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=Pmelo22&repo=Pmelo22&theme=radical)](https://github.com/Pmelo22/Pmelo22)
+[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=Pmelo22&repo=Pmelo22&theme=radical)](https://github.com/Luluzao0/csec-solutions)
 
 ---
 
