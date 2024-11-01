@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**Pmelo22/Pmelo22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello! I'm Patrick 👋
 
-Here are some ideas to get you started:
+I am a developer with experience in web development and data science. Passionate about learning new technologies and solving real-world problems with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Languages and Technologies
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pmelo22&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmelo22&layout=compact&theme=radical)
+
+---
+
+### Featured Projects
+[![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=Pmelo22&repo=Pmelo22&theme=radical)](https://github.com/Pmelo22/Pmelo22)
+
+---
+
+### Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pmelo22)
+![Profile views](https://komarev.com/ghpvc/?username=Pmelo22&style=flat-square&color=blue)
