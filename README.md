@@ -1,6 +1,6 @@
 # Hello! I'm Patrick 👋
 
-I am a developer with experience in web development, back-end development and databases. Personal passion for economics, sports and books.
+I am a developer with experience in web development, back-end development, and databases. I have a personal passion for economics, sports, and books.
 
 ---
 
@@ -13,9 +13,12 @@ I am a developer with experience in web development, back-end development and da
 
 ---
 
-### Minhas Atividades Recentes
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### GitHub Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pmelo22&theme=radical)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmelo22&layout=compact&theme=radical)
 
 ---
 
