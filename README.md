@@ -13,11 +13,6 @@ I am a developer with experience in web development, back-end development, and d
 
 ---
 
-### GitHub Activity
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pmelo22&theme=radical)
-
----
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pmelo22&layout=compact&theme=radical)
 
 ---
@@ -25,9 +20,3 @@ I am a developer with experience in web development, back-end development, and d
 ### Featured Projects
 [![Repository Name](https://github-readme-stats.vercel.app/api/pin/?username=Pmelo22&repo=Pmelo22&theme=radical)](https://github.com/Luluzao0/csec-solutions)
 
----
-
-### Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmelo22)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pmelo22)
-![Profile views](https://komarev.com/ghpvc/?username=Pmelo22&style=flat-square&color=blue)
