@@ -21,15 +21,6 @@ I am a **Full-Stack Developer and Researcher** based in São Luís, Brazil. Curr
 
 My focus lies in building scalable solutions for **Geoprocessing, Public Health, and Education**. I bridge the gap between academic research and market-ready software, with a strong emphasis on code quality, software architecture, and technical leadership.
 
-### 🚀 Currently Working On
-
-* **Founder & Developer** at [Thera](https://www.linkedin.com/in/pmelo22) (Strategic management & Full-cycle dev)
-* **Technical Specialist** at [Inova Maranhão](https://www.linkedin.com/in/pmelo22) (Innovation curatorship & Mentoring)
-* **Monitor** at [Ministry of Health (PET-Saúde)](https://www.linkedin.com/in/pmelo22) (SUS Digital Transformation)
-* **Scientific Researcher** at [LAPS/UEMA](https://www.linkedin.com/in/pmelo22) (AI & Signal Processing)
-
----
-
 ### 🛠️ Tech Stack
 
 #### **Frontend & Mobile**
